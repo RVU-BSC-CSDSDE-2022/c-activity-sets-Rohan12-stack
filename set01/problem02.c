@@ -1,15 +1,11 @@
-#include<stdiou,h>
+#include <stdio.h>
 
 int main(void) {
-  int a, b, sum;
+  int a, b,sum;
   a=4 ,b=7;
-  sum=a+b;
-  printf("%d %d %d", sum ,a ,b);
+  printf("%d %d %d ",a+b);
   return 0;
   }
-    
-    
-    
     
     
     
